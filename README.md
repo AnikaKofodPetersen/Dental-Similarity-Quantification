@@ -1,2 +1,2 @@
-# Dental-Similarity-Quantification
-Repository for availability of source code for the paper
+# Dental Similarity Quantification
+Repository for availability of source code for the paper * Insert papername here*
